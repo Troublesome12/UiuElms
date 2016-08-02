@@ -1,0 +1,99 @@
+.modal{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.price-box {
+    margin: 0 auto;
+    background: #E9E9E9;
+    border-radius: 10px;
+    padding: 40px 15px;
+    width: 500px;
+    cursor: pointer;
+}
+
+.ui-widget-content {
+    border: 1px solid #bdc3c7;
+    background: #e1e1e1;
+    color: #222222;
+    margin-top: 4px;
+    cursor: pointer;
+}
+
+.ui-slider .ui-slider-handle {
+    position: absolute;
+    z-index: 2;
+    width: 5.2em;
+    height: 2.2em;
+    cursor: default;
+    margin: 0 -40px auto !important;
+    text-align: center;	
+    line-height: 30px;
+    color: #FFFFFF;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+.ui-slider .ui-slider-handle .glyphicon {
+    color: #FFFFFF;
+    margin: 0 3px; 
+    font-size: 11px;
+    opacity: 0.5;
+    cursor: pointer;
+}
+
+.ui-corner-all {
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.ui-slider-horizontal .ui-slider-handle {
+    top: -.9em; 
+    cursor: pointer;
+}
+
+.ui-state-default,
+.ui-widget-content .ui-state-default {
+    border: 1px solid #f9f9f9;
+    background: #3498db;
+    cursor: pointer;
+}
+
+.ui-slider-horizontal .ui-slider-handle {
+    margin-left: -0.5em;
+    cursor: pointer;
+}
+
+.ui-slider .ui-slider-handle {
+    cursor: pointer;
+}
+
+.ui-slider a,
+.ui-slider a:focus {
+    cursor: pointer;
+    outline: none;
+}
+
+h4.great {
+    background: #00ac98;
+    margin: 0 0 25px -60px;
+    padding: 7px 15px;
+    color: #ffffff;
+    font-size: 18px;
+    font-weight: 600;
+    border-radius: 5px;
+    display: inline-block;
+    -moz-box-shadow:    2px 4px 5px 0 #ccc;
+    -webkit-box-shadow: 2px 4px 5px 0 #ccc;
+    box-shadow:         2px 4px 5px 0 #ccc;
+}
+
+.price-slider {
+    margin-bottom: 70px;
+}
+
+.form-pricing {
+    background: #ffffff;
+    padding: 20px;
+    border-radius: 4px;
+}
